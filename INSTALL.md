@@ -22,13 +22,13 @@ claude auth login
 3. 执行安装：
 
 ```bash
-npm install -g claude-rc-2.0.0.tgz
+npm install -g claude-rc-2.1.0.tgz
 ```
 
 ### 方法二：直接用 URL 安装
 
 ```bash
-npm install -g https://github.com/tomszhou/claude-rc-release/releases/download/v2.0.0/claude-rc-2.0.0.tgz
+npm install -g https://github.com/tomszhou/claude-rc-release/releases/download/v2.1.0/claude-rc-2.1.0.tgz
 ```
 
 ## 验证安装
@@ -78,5 +78,5 @@ xcode-select --install
 然后重新安装：
 
 ```bash
-npm install -g claude-rc-2.0.0.tgz
+npm install -g claude-rc-2.1.0.tgz
 ```

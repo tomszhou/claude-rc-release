@@ -14,10 +14,16 @@
 
 ## 安装
 
-从 [Releases](https://github.com/tomszhou/claude-rc-release/releases) 下载最新的 `claude-rc-2.0.0.tgz`，然后：
+一键安装（从 GitHub Release 直接装）：
 
 ```bash
-npm install -g claude-rc-2.0.0.tgz
+npm install -g https://github.com/tomszhou/claude-rc-release/releases/download/v2.1.0/claude-rc-2.1.0.tgz
+```
+
+或者从 [Releases](https://github.com/tomszhou/claude-rc-release/releases) 下载 tgz 后本地安装：
+
+```bash
+npm install -g claude-rc-2.1.0.tgz
 ```
 
 ## 使用
