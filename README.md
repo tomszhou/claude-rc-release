@@ -17,13 +17,13 @@
 一键安装（从 GitHub Release 直接装）：
 
 ```bash
-npm install -g https://github.com/tomszhou/claude-rc-release/releases/download/v2.2.0/claude-rc-2.2.0.tgz
+npm install -g https://github.com/tomszhou/claude-rc-release/releases/download/latest/claude-rc-latest.tgz
 ```
 
 或者从 [Releases](https://github.com/tomszhou/claude-rc-release/releases) 下载 tgz 后本地安装：
 
 ```bash
-npm install -g claude-rc-2.2.0.tgz
+npm install -g claude-rc-latest.tgz
 ```
 
 ## 使用

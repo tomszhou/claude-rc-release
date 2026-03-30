@@ -20,7 +20,7 @@ claude auth login
 ### 方法一：从 GitHub Release 直接安装
 
 ```bash
-npm install -g https://github.com/tomszhou/claude-rc-release/releases/download/v2.2.0/claude-rc-2.2.0.tgz
+npm install -g https://github.com/tomszhou/claude-rc-release/releases/download/latest/claude-rc-latest.tgz
 ```
 
 ### 方法二：下载 tgz 后本地安装
@@ -30,7 +30,7 @@ npm install -g https://github.com/tomszhou/claude-rc-release/releases/download/v
 3. 执行：
 
 ```bash
-npm install -g claude-rc-2.2.0.tgz
+npm install -g claude-rc-latest.tgz
 ```
 
 ### 验证安装
@@ -51,7 +51,7 @@ claude-rc --version
 npm uninstall -g claude-rc
 
 # 3. 安装新版本
-npm install -g claude-rc-2.2.0.tgz
+npm install -g claude-rc-latest.tgz
 
 # 4. 确认版本
 claude-rc --version
@@ -129,7 +129,7 @@ xcode-select --install
 然后重新安装：
 
 ```bash
-npm install -g claude-rc-2.2.0.tgz
+npm install -g claude-rc-latest.tgz
 ```
 
 ### posix_spawnp failed
