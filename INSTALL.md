@@ -37,7 +37,7 @@ npm install -g claude-rc-latest.tgz
 
 ```bash
 claude-rc --version
-# 应输出：claude-rc v2.2.0 (2026-03-30 ...)
+# 应输出：claude-rc v2.3.0 (2026-03-31 ...)
 ```
 
 ---
@@ -107,7 +107,7 @@ export PATH="$(npm config get prefix)/bin:$PATH"
 ```bash
 npm uninstall -g claude-rc
 npm cache clean --force
-npm install -g claude-rc-2.2.0.tgz
+npm install -g claude-rc-2.3.0.tgz
 ```
 
 如果是开发环境用了 `npm link`，先解除：
@@ -115,7 +115,7 @@ npm install -g claude-rc-2.2.0.tgz
 ```bash
 cd /path/to/claude-rc
 npm unlink
-npm install -g claude-rc-2.2.0.tgz
+npm install -g claude-rc-2.3.0.tgz
 ```
 
 ### node-pty 编译失败
